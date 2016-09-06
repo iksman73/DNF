@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AFC9CCC7-A66F-4177-D9DB-0EBBE7384016}") = "Flying Duck", "Assembly-CSharp-firstpass.csproj", "{B0678D02-2D16-6BFB-4652-08933085624B}"
+EndProject
+Project("{AFC9CCC7-A66F-4177-D9DB-0EBBE7384016}") = "Flying Duck", "Assembly-CSharp.csproj", "{F8FB7A5A-055C-8171-F885-80E3869C9B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0678D02-2D16-6BFB-4652-08933085624B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0678D02-2D16-6BFB-4652-08933085624B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0678D02-2D16-6BFB-4652-08933085624B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0678D02-2D16-6BFB-4652-08933085624B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FB7A5A-055C-8171-F885-80E3869C9B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FB7A5A-055C-8171-F885-80E3869C9B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FB7A5A-055C-8171-F885-80E3869C9B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FB7A5A-055C-8171-F885-80E3869C9B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
